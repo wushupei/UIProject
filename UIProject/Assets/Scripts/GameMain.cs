@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class GameMain : MonoBehaviour
 {
-
-    // Use this for initialization
     void Start()
     {
         transform.SetSiblingIndex(0);
